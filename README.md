@@ -1,4 +1,4 @@
-# Amaka's Mega Mart – Sales Performance Analysis
+# Amaka's Mega Mart – Sales Analysis Report
 
 ## Project Overview
 
